@@ -13,7 +13,7 @@ I need to test this function more then your feedbacks are appreciated, please [f
 for any bugs you find or any suggestions you have.
 
 
-How does this function sort returned values (array)? 
+How does this function sort the array? 
 ======================
 I used the levenshtein function to sort the array, the Levenshtein algorithm (also called Edit-Distance or Levenshtein distance) is a string metric for measuring the difference between two sequences. Informally, the Levenshtein distance between two words is the minimum number of single-character edits (i.e. insertions, deletions or substitutions) required to change one word into the other.
 It calculates the least number of edit operations that are necessary to modify one string to obtain another string.[read more](http://www.levenshtein.net/)
