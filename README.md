@@ -1,3 +1,7 @@
+[Demo](http://balit.ir/combination/combination.php)
+=======
+
+
 Combination
 =============
 
@@ -6,7 +10,7 @@ Combination algorithm for **typo (misspelling) in Arabic and Persian language**.
 
 What is combination?
 ====================
-In mathematics, a combination is a way of selecting items from a collection, such that (unlike permutations) the order of selection does not matter. In smaller cases it is possible to count the number of combinations. [(read more)](https://en.wikipedia.org/wiki/Combination)
+In mathematics, a combination is a way of selecting items from a collection, such that (unlike permutations) the order of selection does not matter. In smaller cases it is possible to count the number of combinations. [read more](https://en.wikipedia.org/wiki/Combination)
 
 
 I need to test this function more then your feedbacks are appreciated, please [fill an issue](https://github.com/m-kermani/combination/issues)
@@ -22,12 +26,11 @@ It calculates the least number of edit operations that are necessary to modify o
 How to use this function?
 =======
 ```php
-  $array_1 = combination ($your_word);
- 
- //Sorting by Levenshtein distance
- $array_2 =  combination($your_word, 'levin');
+   $array_1 = combination ($your_word);
+   
+   //Sorting by Levenshtein distance
+   $array_2 =  combination($your_word, 'levin');
  
  
 ```
-[Demo](http://balit.ir/hossein/combination.php)
-=======
+
