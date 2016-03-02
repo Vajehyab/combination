@@ -132,13 +132,5 @@ function combination($word, $sort=false){
         return false;
     }
 }
-
-//Test function:
-$word = 'دغدغه';
-
-    $i=combination($word);
-    
-    //See result here:
-    print_r($i);
     
 ?>
