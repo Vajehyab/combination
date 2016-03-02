@@ -1,11 +1,12 @@
 [Demo](http://balit.ir/combination/combination.php)
 =======
+Please see the demo and try it.
 
 
 Combination
 =============
 
-Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let me know what you need.
+Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let me know [what you need](https://github.com/m-kermani/combination/issues).
 
 
 What is combination?
