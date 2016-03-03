@@ -1,3 +1,4 @@
+<?php
 //Strpos for array:
 function strposa($haystack, $needle, $offset=0) {
     if(!is_array($needle)) $needle = array($needle);
