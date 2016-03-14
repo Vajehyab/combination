@@ -29,7 +29,7 @@ How to use this function?
    $array_1 = combination ($your_word);
    
    //Sorting by Levenshtein distance
-   $array_2 =  combination($your_word, 'levin');
+   $array_2 = combination($your_word, 'levin');
  
  
 ```
