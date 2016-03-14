@@ -5,7 +5,7 @@ Please see and try the demo.
 
 Combination
 =============
-Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let me know [what you need](https://github.com/vajeyyab/combination/issues).
+Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let us know [what you need](https://github.com/vajeyyab/combination/issues).
 
 
 What is combination?
