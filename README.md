@@ -5,7 +5,7 @@ Please see and try the demo.
 
 Combination
 =============
-Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let me know [what you need](https://github.com/m-kermani/combination/issues).
+Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let me know [what you need](https://github.com/vajeyyab/combination/issues).
 
 
 What is combination?
@@ -13,7 +13,7 @@ What is combination?
 In mathematics, a combination is a way of selecting items from a collection, such that (unlike permutations) the order of selection does not matter. In smaller cases it is possible to count the number of combinations. [read more](https://en.wikipedia.org/wiki/Combination)
 
 
-I need to test this function more then your feedbacks are appreciated, please [fill an issue](https://github.com/m-kermani/combination/issues)
+I need to test this function more then your feedbacks are appreciated, please [fill an issue](https://github.com/vajehyab/combination/issues)
 for any bugs you find or any suggestions you have.
 
 
