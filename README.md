@@ -1,6 +1,5 @@
 [Demo](http://balit.ir/combination/combination.php)
-=======
-Demo is not available now!
+
 
 
 Combination
