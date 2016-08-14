@@ -1,12 +1,6 @@
 #[Demo](http://balit.ir/combination/combination.php)
 
 
-
-Combination
-=============
-Combination algorithm for **typo (misspelling) in Arabic and Persian language**. This can do even more and more just by changing the algorithm, just let us know [what you need](https://github.com/vajeyyab/combination/issues).
-
-
 What is combination?
 ====================
 In mathematics, a combination is a way of selecting items from a collection, such that (unlike permutations) the order of selection does not matter. In smaller cases it is possible to count the number of combinations. [read more](https://en.wikipedia.org/wiki/Combination)
